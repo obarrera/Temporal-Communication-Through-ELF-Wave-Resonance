@@ -75,6 +75,7 @@ i ℏ (∂ψ/∂t) = Ĥ ψ + γ E(t)
 Where **γ E(t)** represents ELF-induced perturbation affecting the entangled state.  
 
 If ELF waves are influenced by spacetime curvature, they could interact with quantum fields, potentially creating localized entanglement or feedback loops.
+
 ---
 
 ### 1.3 Coupled System – Full Governing Equation  
