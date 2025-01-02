@@ -191,26 +191,54 @@ Exploring this model could lead to new insights into quantum gravity, field theo
 
 # Simulations
 
-## 1. 
-
-The simulation of ELF wave propagation in curved spacetime is complete. The plot shows the evolution of the electric field 𝐸(𝑡), E(t) over time, incorporating spacetime curvature and quantum modulation.
+1. The simulation of ELF wave propagation in curved spacetime is complete. The plot shows the evolution of the electric field 𝐸(𝑡) over time, incorporating spacetime curvature and quantum modulation.
 
 ![Simulation](output.png)  
 
-## 2. 
-
-The extended simulation models ELF wave propagation under varying spacetime curvature 𝑅𝜇𝜈 Rμν and quantum source coupling 𝛽, β. This plot illustrates how changes in these parameters affect the amplitude and behavior of the electric field over time.
+---
+ 
+2. The extended simulation models ELF wave propagation under varying spacetime curvature 𝑅𝜇𝜈 and quantum source coupling 𝛽. This plot illustrates how changes in these parameters affect the amplitude and behavior of the electric field over time.
 
 ![Simulation](output(1).png)  
 
-## 2. 
+---
 
-The visualizations show the relationship between spacetime curvature 𝑅𝜇𝜈 Rμν and the amplitude of ELF waves for varying quantum coupling 𝛽, β:
+3. The visualizations show the relationship between spacetime curvature 𝑅𝜇𝜈 Rμν and the amplitude of ELF waves for varying quantum coupling 𝛽:
 
-Max Amplitude vs. Curvature – Highlights how the peak amplitude of the ELF wave changes as a function of curvature and coupling strength.
+- Max Amplitude vs. Curvature – Highlights how the peak amplitude of the ELF wave changes as a function of curvature and coupling strength.
 ![Simulation](output(2).png)  
-Final Amplitude vs. Curvature – Displays the steady-state or final amplitude, indicating how ELF waves persist under different spacetime conditions.
+
+- Final Amplitude vs. Curvature – Displays the steady-state or final amplitude, indicating how ELF waves persist under different spacetime conditions.
 ![Simulation](output(3).png)  
+
+---
+ 
+4. The 3D surface plot illustrates how spacetime curvature (𝑅𝜇𝜈) and quantum coupling (𝛽) influence the maximum amplitude of the electric field.
+
+![Simulation](output(4).png)  
+
+---
+
+5. The heatmap visually represents how spacetime curvature (𝑅𝜇𝜈) and quantum coupling (𝛽) influence the maximum amplitude of ELF waves.
+
+![Simulation](output(5).png)  
+
+---
+
+6. The phase space diagram illustrates the dynamic evolution of the ELF field by plotting 
+𝐸(𝑡) against 𝑑𝐸/𝑑𝑡
+​
+ . This can help visualize oscillatory or resonant behavior.
+
+![Simulation](output(6).png)  
+
+---
+
+7. The contour plot highlights resonance zones where the ELF amplitude reaches its peak, providing insight into how curvature and quantum coupling interact to influence resonance effects.
+
+![Simulation](output(7).png)  
+
+
 
 
 
