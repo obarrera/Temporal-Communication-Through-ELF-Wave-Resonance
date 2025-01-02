@@ -11,6 +11,8 @@ This project explores the potential for leveraging Earth's extremely low-frequen
 The Einstein field equations describe spacetime curvature induced by mass-energy:  
 R_{μν} - (1/2) g_{μν} R = (8 π G / c^4) T_{μν}
 
+![Einstein Field Equation](einstein_equation.png)  
+
 Where:  
 - **R_{μν}** – Ricci curvature tensor  
 - **g_{μν}** – Metric tensor  
@@ -26,6 +28,8 @@ Where **α R_{μν} E** represents the perturbation caused by spacetime curvatur
 ### 1.2 Quantum Entanglement and ELF Modulation  
 Entanglement dynamics follow the time-dependent Schrödinger equation:  
 i ℏ (∂ψ/∂t) = Ĥ ψ
+
+![Schrödinger Equation](schrodinger_equation.png)  
 
 Where:  
 - **ψ** – Quantum state  
@@ -56,6 +60,8 @@ Where:
 ### 2. Pyramid Resonance and ELF Amplification  
 Pyramids may amplify ELF waves through resonance effects and piezoelectric properties:  
 A(t) = A₀ exp(κ t) cos(ω₀ t + ϕ)
+
+![Resonance Equation](resonance_equation.png)  
 
 Where:  
 - **A₀** – Initial amplitude of ELF waves  
