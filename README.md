@@ -191,7 +191,7 @@ Exploring this model could lead to new insights into quantum gravity, field theo
 
 # Simulations
 
-1. The simulation of ELF wave propagation in curved spacetime is complete. The plot shows the evolution of the electric field 𝐸(𝑡) over time, incorporating spacetime curvature and quantum modulation.
+1. The plot shows the evolution of the electric field 𝐸(𝑡) over time, incorporating spacetime curvature and quantum modulation.
 
 ![Simulation](output.png)  
 
@@ -203,7 +203,7 @@ Exploring this model could lead to new insights into quantum gravity, field theo
 
 ---
 
-3. The visualizations show the relationship between spacetime curvature 𝑅𝜇𝜈 Rμν and the amplitude of ELF waves for varying quantum coupling 𝛽:
+3. The visualizations show the relationship between spacetime curvature 𝑅𝜇𝜈 and the amplitude of ELF waves for varying quantum coupling 𝛽:
 
 - Max Amplitude vs. Curvature – Highlights how the peak amplitude of the ELF wave changes as a function of curvature and coupling strength.
 ![Simulation](output(2).png)  
@@ -237,6 +237,30 @@ Exploring this model could lead to new insights into quantum gravity, field theo
 7. The contour plot highlights resonance zones where the ELF amplitude reaches its peak, providing insight into how curvature and quantum coupling interact to influence resonance effects.
 
 ![Simulation](output(7).png)  
+
+---
+
+8. The visualizing of how the system transitions between stable and unstable regimes as spacetime curvature 𝑅𝜇𝜈 and quantum coupling 𝛽 vary.
+
+![Simulation](output(8).png)  
+
+---
+
+9. The plot shows the simulation of quantum perturbations over time, highlighting the real and imaginary components of the oscillatory behavior driven by quantum coupling and ELF wave interactions.
+
+![Simulation](output(9).png)  
+
+---
+
+10. The simulation models the ELF wave response influenced by gravitational perturbations from major celestial bodies in our solar system. Each plot represents the electric field amplitude over time, reflecting how curvature from the Sun, Jupiter, Earth, Mars, and Venus modulates ELF wave propagation.
+
+![Simulation](output(10).png)  
+
+---
+
+11. The phase coherence plot illustrates how ELF signals evolve under temporal feedback loops induced by gravitational lensing and time delay. This highlights how curvature variations influence signal stability and coherence over time.
+
+![Simulation](output(11).png)  
 
 
 
