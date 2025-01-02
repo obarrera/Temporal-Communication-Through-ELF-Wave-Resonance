@@ -3,6 +3,7 @@
 ## Abstract  
 This project explores the potential for leveraging Earth's extremely low-frequency (ELF) waves, cosmic alignments, and ancient resonant structures, such as pyramids, to facilitate communication across time. By integrating principles from general relativity, quantum mechanics, and resonance physics, this framework hypothesizes that pyramids may act as amplifiers and receivers for ELF signals influenced by spacetime curvature during planetary alignments.  
 
+![Diagram](mathematical_thesis_diagram.png)  
 ---
 
 ## 1. Theoretical Framework  
