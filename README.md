@@ -1,4 +1,4 @@
-# Temporal Communication Through ELF Wave Resonance and Ancient Structures  
+# Temporal Communication Through ELF Wave Resonance
 
 # Coupled System – Full Governing Equation
 Here's the full governing equation:
