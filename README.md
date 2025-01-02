@@ -201,16 +201,16 @@ The simulation of ELF wave propagation in curved spacetime is complete. The plot
 
 The extended simulation models ELF wave propagation under varying spacetime curvature 𝑅𝜇𝜈 Rμν and quantum source coupling 𝛽, β. This plot illustrates how changes in these parameters affect the amplitude and behavior of the electric field over time.
 
-![Simulation](output(1).png)  
+![Simulation](output (1).png)  
 
 ## 2. 
 
 The visualizations show the relationship between spacetime curvature 𝑅𝜇𝜈 Rμν and the amplitude of ELF waves for varying quantum coupling 𝛽, β:
 
 Max Amplitude vs. Curvature – Highlights how the peak amplitude of the ELF wave changes as a function of curvature and coupling strength.
-![Simulation](output(2).png)  
+![Simulation](output (2).png)  
 Final Amplitude vs. Curvature – Displays the steady-state or final amplitude, indicating how ELF waves persist under different spacetime conditions.
-![Simulation](output(3).png)  
+![Simulation](output (3).png)  
 
 
 
