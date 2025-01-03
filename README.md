@@ -189,7 +189,8 @@ Exploring this model could lead to new insights into quantum gravity, field theo
 
 ---
 
-# Simulations
+# Example Possible Simulations
+## Running various simulations can help test potential effects of any coupling based on various parameter values. 
 
 1. The plot shows the evolution of the electric field 𝐸(𝑡) over time, incorporating spacetime curvature and quantum modulation.
 
