@@ -1,12 +1,13 @@
 # Temporal Communication Through ELF Wave Resonance
 
-# Coupled System – Full Governing Equation
+![Simulation](./simulation_a4.0e-06_b1.0e-06.gif)
+
+## Coupled System – Full Governing Equation
+
 Here's the full governing equation:
 ∇² E - (1/c²) ∂²E/∂t² + α R_{μν} E = β ψ(t) exp(-i ω t)
 
 ![Governing Equation](equation_image.png)  
-
-![Simulation](./simulation_a4.0e-06_b1.0e-06.gif)
 
 The equation describes a coupled system that integrates multiple complex effects: **spacetime curvature**, **ELF wave propagation**, and **quantum entanglement**. 
 ### Key Terms and Their Physical Meaning:
