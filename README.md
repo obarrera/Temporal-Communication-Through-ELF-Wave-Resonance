@@ -8,8 +8,6 @@ Here's the full governing equation:
 
 ![Simulation](https://github.com/obarrera/Temporal-Communication-Through-ELF-Wave-Resonance/blob/main/simulation_a4.0e-06_b1.0e-06.gif)
 
-![Equation](https://github.com/obarrera/Temporal-Communication-Through-ELF-Wave-Resonance/blob/main/maxAmpEnergy_a4.0e-06_b1.0e-06.png)  
-
 The equation describes a coupled system that integrates multiple complex effects: **spacetime curvature**, **ELF wave propagation**, and **quantum entanglement**. 
 ### Key Terms and Their Physical Meaning:
 
@@ -193,8 +191,45 @@ Exploring this model could lead to new insights into quantum gravity, field theo
 
 ---
 
-# Example Possible Simulations
-## Running various simulations can help test potential effects of any coupling based on various parameter values. 
+# Simulation Example Code
+![Equation](https://github.com/obarrera/Temporal-Communication-Through-ELF-Wave-Resonance/blob/main/maxAmpEnergy_a4.0e-06_b1.0e-06.png)  
+## [Python Code](https://github.com/obarrera/Temporal-Communication-Through-ELF-Wave-Resonance/blob/main/coupling_simulation.py)
+
+### 3D Coupled PDE Solver
+
+This script solves a 3D PDE of the form:
+d^2 E / dt^2 = c^2 * (Laplacian of E) - alpha * c^2 * R(x,y,z) * E + c^2 * beta * cos(omega * t),
+where R(x,y,z) is a Ricci-like curvature field, and alpha, beta are coupling parameters.
+
+## Features
+- Parameter sweep over (alpha, beta).
+- Real-time z-mid slice plotting (optional).
+- Creates a unique animated GIF for each run (simulation_aX_bY.gif).
+- Saves final plots only if final amplitude changes above a threshold.
+
+## Usage
+1. Install dependencies:
+   pip install numpy matplotlib tqdm imageio
+2. Run:
+   python3 coupling_simulation.py
+3. Outputs in "3d_extended_run/":
+   - simulation_a1.0e-06_b2.0e-07.gif, etc.
+   - Final slices (Z, Y mid) and max amplitude vs. time plots.
+
+## Main Components
+- CoupledParams3D: PDE parameters (grid, damping, etc.).
+- define_ricci_3d: Builds R(x,y,z).
+- initialize_field_3d: Sets initial condition.
+- laplacian_3d: Computes 3D Laplacian.
+- run_single_sim_realtime: Runs one PDE simulation, makes GIF.
+- param_sweep_3d: Sweeps alpha, beta, saves final results conditionally.
+- run_3d_extended_realtime_sweep: Main entry point.
+
+
+---
+
+### Other Possible Simulations
+#### Running various simulations can help test potential effects of any coupling based on various parameter values. 
 
 1. The plot shows the evolution of the electric field 𝐸(𝑡) over time, incorporating spacetime curvature and quantum modulation.
 
