@@ -164,21 +164,6 @@ This is the extra **quantum or "pyramid" forcing term**, where:
 **μ<sub>0</sub>**  
 This is the **vacuum permeability** in SI units or another chosen coupling constant, depending on the physical convention.
 
----
-
-### Equation in Markdown
-
-\[
-\nabla^\alpha \nabla_\alpha \, A^\mu
-\;-\;
-R^\mu_{\ \nu}\,A^\nu
-\;=\;
-\mu_0 \Bigl[
-  J^\mu_{\mathrm{classical}}(x)
-  \;+\;
-  \beta \,\Psi^\mu(t)\, e^{-\,i\,\omega\,t}
-\Bigr].
-\]
 
 ---
 
