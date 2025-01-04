@@ -6,7 +6,7 @@ Here's the full governing equation:
 
 ![Governing Equation](equation_image.png)  
 
-![Simulation](https://github.com/obarrera/Temporal-Communication-Through-ELF-Wave-Resonance/blob/main/simulation_a4.0e-06_b1.0e-06.gif)
+![Simulation](./simulation_a4.0e-06_b1.0e-06.gif)
 
 The equation describes a coupled system that integrates multiple complex effects: **spacetime curvature**, **ELF wave propagation**, and **quantum entanglement**. 
 ### Key Terms and Their Physical Meaning:
